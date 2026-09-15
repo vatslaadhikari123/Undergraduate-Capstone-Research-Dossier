@@ -2,7 +2,7 @@
 
 * **Candidate:** Vatsla Adhikari (UID: 20BCS5064)
 * **Module:** Senior Undergraduate Capstone Research & Industrial Project (Semester 7, 15 Credits, Grade A+)
-* **Academic Supervisors:** Chu-Shou Yang, Ph.D. and Associate Professor Prof. Shau, Ph.D.
+* **Academic Supervisors:** Prof. Shau, Ph.D. and Associate Professor Chu-Shou Yang, Ph.D.
 * **Fellowship & Industry Host:** Taiwan Experience Education Program (TEEP) | REC Private Technology Corporation
 
 ---
