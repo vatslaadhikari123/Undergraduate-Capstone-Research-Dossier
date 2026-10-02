@@ -1,9 +1,17 @@
 # Automated Active Alignment & Deep Learning Defect Inspection for Optical Camera Sensors
 
 * **Candidate:** Vatsla Adhikari (UID: 20BCS5064)
-* **Module:** Senior Undergraduate Capstone Research & Industrial Project (Semester 7, 15 Credits, Grade A+)
-* **Academic Supervisors:** Prof. Shau, Ph.D. and Associate Professor Chu-Shou Yang, Ph.D.
-* **Fellowship & Industry Host:** Taiwan Experience Education Program (TEEP) | REC Private Technology Corporation
+* **Degree Program:** Bachelor of Engineering in Computer Science and Engineering (Chandigarh University)
+* **Curricular Module:** Senior Undergraduate Capstone Research & Industrial Project (`20CSI-403`, Semester 7, 15 Credits, Evaluated Grade: A+)
+* **Academic Supervisors:** Prof. Chau-Yun Hsu, Ph.D. & Prof. Chu-Shou Yang, Ph.D. (Tatung University)
+* **Industrial Supervisor:** Allen Wu (Senior Engineering Lead, REC Technology Corporation)
+* **Fellowship & Industry Host:** Taiwan Experience Education Program (TEEP) | REC Technology Corporation
+
+---
+
+### 📄 Primary Academic Deliverables
+* **[Read Full Undergraduate Research Dissertation (PDF)](./Undergraduate_Research_Dissertation_Vatsla_Adhikari.pdf)**
+* **[View Institutional Research Completion & Defense Certificate (PDF)](./TEEP_Thesis_Certificate.pdf)**
 
 ---
 
@@ -130,12 +138,9 @@ A YOLOv8 model was trained on annotated microscopic images from Roboflow to loca
 ## 6. Repository Structure
 
 ```text
-├── reports/                 # Faculty progress reports (Nov–Dec 2023)
-├── src/
-│   ├── alignment/           # MTF curve processing, Delta Z logic, and SQL scripts
-│   └── defect_detection/    # YOLOv8 inference scripts and OpenCV contour tools
-├── docs/                    # Academic Abstract & HOD Equivalence Letter
-└── README.md
+├── Undergraduate_Research_Dissertation_Vatsla_Adhikari.pdf   # Master Capstone Dissertation
+├── TEEP_Thesis_Certificate.pdf                              # Institutional Completion & Defense Attestation
+└── README.md                  # Technical overview and architectural breakdown
 
 ```
 
