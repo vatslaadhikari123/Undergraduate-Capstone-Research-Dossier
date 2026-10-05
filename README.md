@@ -135,7 +135,11 @@ A YOLOv8 model was trained on annotated microscopic images from Roboflow to loca
 
 ---
 
-## 6. Repository Structure
+## 6. Math used
+
+https://docs.google.com/document/d/1eDyMRJ4Trd6-trUHuxF_-nzC6mfwjf5nw8H9Fz86kJc/edit?usp=sharing
+
+## 7. Repository Structure
 
 ```text
 ├── Undergraduate_Research_Dissertation_Vatsla_Adhikari.pdf   # Master Capstone Dissertation
