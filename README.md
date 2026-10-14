@@ -10,7 +10,7 @@
 ---
 
 ### 📄 Primary Academic Deliverables
-* **[Read Full Undergraduate Research Dissertation (PDF)](./Undergraduate-Capstone-Research-Dossier/blob/main/Undergraduate_Research_Capstone_Dissertation_Monograph.pdf)**
+* **[Read Full Undergraduate Research Dissertation (PDF)](./Undergraduate_Research_Capstone_Dissertation_Monograph.pdf)**
 * **[View Institutional Research Completion & Defense Certificate (PDF)](./TEEP_Thesis_Certificate.pdf)**
 
 ---
