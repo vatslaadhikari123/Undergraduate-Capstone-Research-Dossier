@@ -133,6 +133,34 @@ A YOLOv8 model was trained on annotated microscopic images from Roboflow to loca
 | **Inspection Latency** | **$< 20\text{ ms}$ / frame** | Operates inline without slowing conveyor movement |
 | **Academic Defense** | **Grade A+ (15 Credits)** | Defended and evaluated before academic supervisors |
 
+| Metric | Target Requirement | Achieved Empirical Result | What It Means | Significance in Your Project |
+| --- | --- | --- | --- | --- |
+| **Precision** | $\ge 85.0\%$<br> | **92.0%**<br> | How often the AI is correct when it sounds an alarm. High precision means minimal false alarms.
+
+ | Prevents the production line from falsely flagging and discarding expensive, defect-free camera sensors due to lighting reflections.
+
+ |
+| **Recall** | $\ge 70.0\%$<br> | **77.0%**<br> | The percentage of actual defective items caught out of all defective items that existed.
+
+ | Ensures the vast majority of real microscopic contaminants and scratches are intercepted before reaching customer devices.
+
+ |
+| **mAP @ IoU=0.5** | $\ge 60.0\%$<br> | **68.7%**<br> | Combined accuracy score evaluating whether the AI correctly classified the defect type and accurately localized it with a bounding box.
+
+ | Proves the YOLOv8 model consistently pinpoints exact flaw coordinates while distinguishing between dust specks, fibers, and scratches.
+
+ |
+| **Inference Latency** | $< 35\text{ ms / frame}$<br> | **$< 20\text{ ms}$**<br> | The model’s computational "thinking time" per image. Fast processing prevents hardware queue backpressure.
+
+ | Operates more than five times faster than a human eye blink, enabling real-time inline inspection without slowing the factory line.
+
+ |
+| **$\Delta Z$ Measurement Drift** | $< 0.5\ \mu\text{m}$<br> | **$0.0\ \mu\text{m}$ (Deterministic)**<br> | The variation or error margin in calculated focal plane tilt across repeated runs.
+
+ | Eliminates manual alignment trial-and-error by deterministically driving 6-axis motors for sub-micron lens adjustment before UV curing.
+
+ |
+
 ---
 
 ## 6. Math used
